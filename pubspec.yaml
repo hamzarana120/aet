@@ -1,0 +1,155 @@
+name: aet
+description: A new Flutter project.
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  division: ^0.9.0
+  cupertino_icons: ^1.0.2
+  confetti: ^0.7.0
+  audioplayers: ^0.20.1
+  video_player: ^2.3.0
+  flip_card: ^0.4.4
+  flutter_sound: ^9.2.13
+  permission_handler: ^10.0.0
+  path_provider: ^2.0.2
+  path: ^1.6.4
+  intl: ^0.17.0
+  just_audio: ^0.9.11
+  audio_session: ^0.1.6
+
+
+
+
+
+    #flutter_ffmpeg: ^0.3.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/image/
+    - assets/sw/
+    - assets/sww/
+    - assets/swp/
+    - assets/bpic/
+    - assets/images/tip.jpeg
+    - assets/aword/
+    - assets/bword/
+    - assets/bphrasev/
+    - assets/bsent/
+    - assets/dpic/
+    - assets/dword/
+    - assets/dphrasev/
+    - assets/dsent/
+    - assets/f/
+    - assets/k/
+    - assets/fword/
+    - assets/fp/
+    - assets/fs/
+    - assets/g/
+    - assets/gw/
+    - assets/gs/
+    - assets/gp/
+    - assets/images/play.jpeg
+    - assets/images/stop.jpeg
+    - assets/images/tiger.jpeg
+    - assets/images/f.jpeg
+    - assets/images/ty.jpeg
+    - assets/images/op.jpeg
+    - assets/images/po.jpeg
+    - assets/images/lop.jpeg
+    - assets/images/kop.jpeg
+    - assets/images/ss.jpeg
+    - assets/images/php.jpeg
+    - assets/animalspics/dino.png
+    - assets/animalspics/fish.png
+    - assets/animalspics/frog.png
+    - assets/animalspics/girraf.png
+    - assets/animalspics/octo.png
+    - assets/animalspics/peacock.png
+    - assets/animalspics/quest.png
+    - assets/animalspics/rabbit.png
+    - assets/animalspics/seahorse.png
+    - assets/animalspics/shark.png
+    - assets/animalspics/whale.png
+    - assets/animalspics/wolf.png
+    - assets/animalspics/zoo.png
+    - assets/asset/redpanda.png
+    - assets/panda.png
+    - assets/asset/Bevis.png
+    - assets/asset/draw.jpg
+    - assets/asset/Story.jpg
+    - assets/asset/Learn.png
+    - assets/asset/dream.jpg
+    - assets/asset/d.png
+    - assets/asset/book.jpg
+    - assets/asset/puzzle.jpg
+    - assets/asset/kids.jpg
+    - assets/asset/colorpalette.png
+    - assets/asset/Bell.mp3
+    - assets/asset/freeh.jpg
+    - assets/asset/shapes.jpg
+    - assets/asset/numbers.jpg
+    - assets/asset/match.jpg
+    - assets/asset/animal.jpg
+    - assets/asset/puzz.png
+    - assets/asset/anim.png
+    - assets/asset/fruit.png
+    - assets/asset/flowers.png
+    - assets/asset/fr1.jpg
+    - assets/asset/fr2.jpg
+    - assets/asset/fr3.jpg
+    - assets/asset/lion.png
+    - assets/asset/toucan.png
+    - assets/asset/chameleon.png
+    - assets/asset/armadillo.png
+    - assets/asset/hippo.png
+    - assets/asset/elephant.png
+    - assets/asset/owl.png
+    - assets/asset/giraffe.png
+    - assets/asset/zebra.png
+    - assets/asset/li.jpg
+    - assets/asset/ti.jpg
+    - assets/asset/be.jpg
+    - assets/asset/ra.jpg
+    - assets/asset/ow.jpg
+    - assets/asset/s1.png
+    - assets/asset/s2.png
+    - assets/asset/s3.png
+    - assets/asset/f.png
+    - assets/asset/lion.mp3
+    - assets/asset/elephant.mp3
+    - assets/asset/zebra.mp3
+    - assets/asset/Armadillo.mp3
+    - assets/asset/Hippopotamus.mp3
+    - assets/asset/Owl.mp3
+    - assets/asset/Toucan.mp3
+    - assets/asset/Giraffe.mp3
+    - assets/asset/Square.png
+    - assets/asset/Triangle.png
+    - assets/asset/Rectangle.png
+    - assets/asset/Circle.png
+
+
+
